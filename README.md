@@ -1,95 +1,125 @@
+<div align="center">
+
 # 👋 Hi, I'm Noaman
 
 ### 💻 Software Engineering Student | Web Developer
 
-I'm a Software Engineering student who enjoys building websites and web applications and learning how things work under the hood.
+I enjoy building modern web applications, turning ideas into real projects, and constantly improving my skills through practice.
 
-I mainly work with **JavaScript, React, and Node.js**, and I enjoy turning ideas into real projects.
+I mainly work with **JavaScript, React, and Node.js**, and I'm currently focusing on becoming a strong Full-Stack Developer.
 
-I'm always trying to improve my code, learn new technologies, and build better projects.
+<br>
 
----
 
-## 🛠️ Tech Stack
 
-**Frontend**
+\
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Bootstrap
-* Tailwind CSS
-* React Router
-
-**Backend**
-
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication
-
-**Tools**
-
-* Git & GitHub
-* Vite
-* Postman
-* Playwright
-* Vercel
-
-**Languages**
-
-* JavaScript
-* Java
-* C++
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-* Building responsive and modern web applications
-* Improving my React and JavaScript skills
-* Learning more about backend development
-* Writing cleaner and more maintainable code
-* Testing and improving the performance of my projects
-
----
-
-## 🎯 My Goal
-
-To become a strong **Full-Stack Developer** and build real-world applications that people can actually use.
-
-I'm always learning, building, making mistakes, fixing them, and getting better.
+* 🎓 Software Engineering student
+* 💻 Focused on Web Development
+* ⚛️ Mainly working with React.js
+* 🟢 Building backend applications with Node.js
+* 🧩 Interested in clean code and good UI/UX
+* 🧪 Interested in testing and improving application quality
+* 🚀 Enjoy building real-world projects
+* 📚 Always learning and improving
 
 ---
 
-### ⚡ Keep Building. Keep Learning.
+## 🔨 Languages & Tools
 
+<p align="left">
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1LnMVsXYTV/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-noaman-b21a4729b)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/youssef_24774)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssefnoaman96@gmail.com)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/> </a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YoussefNoaman96&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YoussefNoaman96&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YoussefNoaman96&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/> </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoussefNoaman96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px"/> </a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px"/> </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YoussefNoaman96&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px"/> </a>
+
+<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/express/express.svg" alt="Express.js" height="42px"/> </a>
+
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mongodb/mongodb.svg" alt="MongoDB" height="42px"/> </a>
+
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="Bootstrap" height="42px"/> </a>
+
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tailwind/tailwind.svg" alt="Tailwind CSS" height="42px"/> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px"/> </a>
+
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/github/github.svg" alt="GitHub" height="42px"/> </a>
+
+<a href="https://vite.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vite/vite.svg" alt="Vite" height="42px"/> </a>
+
+<a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postman/postman.svg" alt="Postman" height="42px"/> </a>
+
+<a href="https://playwright.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/playwright/playwright.svg" alt="Playwright" height="42px"/> </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/visualstudio/visualstudio.svg" alt="VS Code" height="42px"/> </a>
+
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px"/> </a>
+
+<a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cplusplus/cplusplus.svg" alt="C++" height="42px"/> </a>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=YoussefNoaman96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Like Building
+
+* 🛒 E-commerce websites
+* 🌐 Modern web applications
+* 🔐 Authentication systems
+* 🛍️ Shopping cart & product systems
+* 🔎 Search & filtering features
+* 📱 Responsive interfaces
+* ⚡ Fast and optimized applications
+* 🧪 End-to-end testing
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/YoussefNoaman96">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+</div>
+
+---
+
+## ⚡ Code Cycle
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Relieved%20Face.png" width="10%" alt="It's working!"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Building. Keep Learning.
+
+</div>

@@ -1,5 +1,71 @@
-# 💫 About Me:
-# Hi, I'm Noman 👋<br><br>### 💻 Software Engineering Student | Web Developer | Entrepreneur<br><br>I'm a **Software Engineering student** at **Al-Azhar University**, passionate about building modern, responsive, and user-friendly web applications.<br><br>I enjoy turning ideas into real-world projects, solving problems through code, and constantly learning new technologies to improve both my technical and professional skills.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Software Engineering student at Al-Azhar University<br>* 💻 Focused on **Web Development**<br>* ⚛️ Mainly working with **React.js** and modern frontend technologies<br>* 🌐 Building responsive and interactive websites<br>* 🛠️ Learning and working with **Node.js** for backend development<br>* 🗄️ Working with APIs, databases, authentication, and application logic<br>* 🔧 Experienced with Git, GitHub, Vite, and modern development tools<br>* 🧪 Interested in testing and writing reliable applications<br>* 📈 Interested in building real-world products, not just tutorial projects<br>* 💼 Business owner at **STYRODE**<br>* 🌍 Interested in remote work and international opportunities<br>* 🇬🇧 Currently improving my English communication skills<br>* 📚 Currently exploring **SAP ABAP** and expanding my software engineering knowledge<br><br>---<br><br>## 💻 Tech Stack<br><br>### Frontend<br><br>* HTML5<br>* CSS3<br>* JavaScript (ES6+)<br>* React.js<br>* Bootstrap<br>* Tailwind CSS<br>* Responsive Web Design<br>* React Router<br>* Swiper<br><br>### Backend<br><br>* Node.js<br>* REST APIs<br>* Authentication<br>* MongoDB<br>* Express.js<br><br>### Tools & Technologies<br><br>* Git<br>* GitHub<br>* Vite<br>* VS Code<br>* Postman<br>* Playwright<br>* Vercel<br><br>### Programming Languages<br><br>* JavaScript<br>* Java<br>* C++<br>* ABAP *(currently learning)*<br><br>---<br><br>## 🧠 What I Like Working On<br><br>I'm especially interested in building:<br><br>* 🛒 E-commerce websites<br>* 🌐 Business websites<br>* 📱 Responsive web applications<br>* 🔐 Authentication systems<br>* 🛍️ Shopping carts and product systems<br>* ❤️ Favorites and user-based features<br>* 🔎 Search and filtering systems<br>* ⚡ Fast and optimized React applications<br>* 🎨 Clean and modern UI/UX<br>* 🔌 API-based applications<br><br>I also enjoy taking a project from the initial idea all the way to deployment and optimization.<br><br>---<br><br>## 📌 Some Things I've Worked With<br><br>I've built and worked on projects involving:<br><br>* React component architecture<br>* Context API and state management<br>* Authentication and protected features<br>* Shopping carts<br>* Favorites systems<br>* Product details and category pages<br>* Search functionality<br>* API integration<br>* Responsive layouts<br>* Loading skeletons<br>* Toast notifications<br>* Animations and transitions<br>* Form validation<br>* End-to-end testing<br>* Performance optimization<br>* Production builds and deployment<br><br>---<br><br>## ⚡ My Development Mindset<br><br>I don't want to just learn how to make things work.<br><br>I want to understand **why they work**, how to make them **cleaner, faster, more scalable, and easier to maintain**.<br><br>When I build a project, I care about:<br><br>> **Functionality + Performance + User Experience + Clean Code**<br><br>I'm always trying to improve my coding style, learn better practices, and turn every project into an opportunity to learn something new.<br><br>---<br><br>## 📚 Currently Learning<br><br>I'm currently focusing on:<br><br>* Advanced React<br>* Backend development with Node.js<br>* Better software architecture<br>* Testing and debugging<br>* Web performance optimization<br>* Advanced JavaScript<br>* English communication<br>* SAP ABAP<br><br>---<br><br>## 🎯 My Goals<br><br>My long-term goal is to become a **strong Full-Stack Developer** capable of building complete, production-ready applications from scratch.<br><br>I want to keep improving my technical skills, work on challenging real-world projects, collaborate with talented developers, and eventually build products and businesses of my own.<br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm always interested in:<br><br>* 💼 Freelance opportunities<br>* 🤝 Collaboration<br>* 🚀 Interesting projects<br>* 💡 New ideas<br>* 👨‍💻 Software development discussions<br>* 📚 Learning from other developers<br><br>If you're interested in working together or just talking about technology, feel free to reach out!<br><br>---<br><br>### ⚡ A Little More About Me<br><br>I believe that **consistency beats motivation**.<br><br>I'm constantly learning, building, breaking things, fixing them, and trying again.<br><br>Every project teaches me something new — and that's what keeps me excited about software development.<br><br>### 🚀 Keep Building. Keep Learning. Keep Improving.<br>
+# 👋 Hi, I'm Noman
+
+### 💻 Software Engineering Student | Web Developer
+
+I'm a Software Engineering student who enjoys building websites and web applications and learning how things work under the hood.
+
+I mainly work with **JavaScript, React, and Node.js**, and I enjoy turning ideas into real projects.
+
+I'm always trying to improve my code, learn new technologies, and build better projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+* Tailwind CSS
+* React Router
+
+**Backend**
+
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Authentication
+
+**Tools**
+
+* Git & GitHub
+* Vite
+* Postman
+* Playwright
+* Vercel
+
+**Languages**
+
+* JavaScript
+* Java
+* C++
+
+---
+
+## 🚀 What I'm Working On
+
+* Building responsive and modern web applications
+* Improving my React and JavaScript skills
+* Learning more about backend development
+* Writing cleaner and more maintainable code
+* Testing and improving the performance of my projects
+
+---
+
+## 🎯 My Goal
+
+To become a strong **Full-Stack Developer** and build real-world applications that people can actually use.
+
+I'm always learning, building, making mistakes, fixing them, and getting better.
+
+---
+
+### ⚡ Keep Building. Keep Learning.
+
 
 
 ## 🌐 Socials:

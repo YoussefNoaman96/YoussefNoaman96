@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Noman
+# 👋 Hi, I'm Noaman
 
 ### 💻 Software Engineering Student | Web Developer
 

@@ -19,25 +19,39 @@
 
 ## 🚀 Featured Projects
 
-### [Qisma](https://github.com/YoussefNoaman96/Qisma)
-An expense-sharing application with guest mode, optional accounts, Arabic and English support, and PDF reports.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Qisma ↗](https://github.com/YoussefNoaman96/Qisma)**
+
+An expense-sharing app with guest mode, optional accounts, bilingual support, and PDF reports.
 
 `React` · `Node.js` · `Express` · `MongoDB`
 
-### [React E-commerce Store](https://github.com/YoussefNoaman96/react-ecommerce-store)
-A team project with a storefront and admin dashboard. My contributions include product management, filtering, and editing.
+</td>
+<td width="50%" valign="top">
+
+**[React E-commerce Store ↗](https://github.com/YoussefNoaman96/react-ecommerce-store)**
+
+A team project with a storefront and admin dashboard. My work includes product management, filtering, and editing.
 
 `React` · `Tailwind CSS` · `i18next` · `Axios`
 
-### [Wasal](https://github.com/YoussefNoaman96/wasal-ecommerce)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Wasal ↗](https://github.com/YoussefNoaman96/wasal-ecommerce)**
+
 An e-commerce frontend for browsing products, managing a cart and wishlist, and signing in.
 
 `React` · `Vite` · `React Router` · `Axios`
 
-### [Weather App](https://github.com/YoussefNoaman96/weather-app)
-A Node.js and Express application for looking up weather information.
-
-`Node.js` · `Express` · `Handlebars` · `CSS`
+</td>
+</tr>
+</table>
 
 <hr></hr>
 

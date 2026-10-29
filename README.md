@@ -15,6 +15,11 @@
 
 ---
 
+<div align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="40" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=480&height=45&lines=Curious+mind.+Creative+solutions.;Always+learning%2C+always+building." alt="Curious mind. Creative solutions. Always learning, always building." />
+</div>
+
 ### A little about me
 
 I'm a Computer Engineering student who enjoys building responsive web applications and learning through hands-on projects. I work with React on the frontend and continue developing my backend skills with Node.js, Express, and MongoDB.
@@ -69,6 +74,10 @@ A Node.js and Express application for looking up weather information.
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=500&height=45&lines=Ideas+%E2%86%92+Code+%E2%86%92+Real+Projects;Explore+the+work+above" alt="Ideas to code to real projects" />
+</div>
 
 ### My toolkit
 

@@ -47,7 +47,7 @@ A team project with a storefront and admin dashboard. My work includes product m
 
 An e-commerce frontend for browsing products, managing a cart and wishlist, and signing in.
 
-`React` · `Vite` · `React Router` · `Axios`
+`React` · `Vite` · `React Router` · `Framer Motion`
 
 </td>
 </tr>

@@ -5,6 +5,8 @@
 
 <h2>Hi, I'm Youssef Noaman 👋</h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Engineering+Student;Turning+ideas+into+web+experiences" alt="Full-Stack Developer, Computer Engineering Student, turning ideas into web experiences" />
+
 <p> <strong>Software Engineering Student • Web Developer • Full-Stack Developer</strong> </p>
 
 <p> I build modern, responsive web applications using React, JavaScript, Node.js, and MongoDB. <br> I'm passionate about learning new technologies, solving problems, and turning ideas into real-world projects. </p>
@@ -14,6 +16,44 @@
 <hr></hr>
 
 
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Qisma ↗](https://github.com/YoussefNoaman96/Qisma)**
+
+An expense-sharing app with guest mode, optional accounts, bilingual support, and PDF reports.
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**[React E-commerce Store ↗](https://github.com/YoussefNoaman96/react-ecommerce-store)**
+
+A team project with a storefront and admin dashboard. My work includes product management, filtering, and editing.
+
+`React` · `Tailwind CSS` · `i18next` · `Axios`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Wasal ↗](https://github.com/YoussefNoaman96/wasal-ecommerce)**
+
+An e-commerce frontend for browsing products, managing a cart and wishlist, and signing in.
+
+`React` · `Vite` · `React Router` · `Axios`
+
+</td>
+</tr>
+</table>
+
+<hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)

@@ -1,98 +1,102 @@
+<div align="center">
 
-<div align="center" width="50">
+# Hi, I'm Youssef Noaman 👋
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/YoussefNoaman96" alt="Hello Coders" width="60%"/> <br>
+<a href="https://github.com/YoussefNoaman96">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Computer+Engineering+Student;Turning+ideas+into+web+experiences" alt="Full-Stack Developer, Computer Engineering Student, turning ideas into web experiences" />
+</a>
 
-<h2>Hi, I'm Youssef Noaman 👋</h2>
+**Building thoughtful web experiences, one project at a time.**
 
-<p> <strong>Software Engineering Student • Web Developer • Full-Stack Developer</strong> </p>
-
-<p> I build modern, responsive web applications using React, JavaScript, Node.js, and MongoDB. <br> I'm passionate about learning new technologies, solving problems, and turning ideas into real-world projects. </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Noaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-noaman-b21a4729b)
+[![GitHub](https://img.shields.io/badge/GitHub-YoussefNoaman96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefNoaman96)
 
 </div>
 
-<hr></hr>
+---
 
+### A little about me
 
+I'm a Computer Engineering student who enjoys building responsive web applications and learning through hands-on projects. I work with React on the frontend and continue developing my backend skills with Node.js, Express, and MongoDB.
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+I care about the details that make an experience feel complete: clear interfaces, practical functionality, and code that is easy to understand and improve.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- 🔭 Building projects that bring together design and functionality.
+- 🌱 Growing my skills across full-stack development.
+- 🤝 Enjoying collaboration, feedback, and learning with a team.
 
+### Selected work
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```javascript
-// tools_I_use organized
+**[Qisma ↗](https://github.com/YoussefNoaman96/Qisma)**
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { 
-      "JavaScript", "Java", "C++" 
-    },
+An expense-sharing app with guest mode, optional accounts, bilingual support, and PDF reports.
 
-    "Frontend" : { 
-      "HTML", "CSS", "React", "Bootstrap", "Tailwind CSS", "Vite" 
-    },
+`React` · `Node.js` · `Express` · `MongoDB`
 
-    "Backend" : { 
-      "Node.js", "Express.js", "REST APIs" 
-    },
+</td>
+<td width="50%" valign="top">
 
-    "Database" : { 
-      "MongoDB" 
-    },
+**[React E-commerce Store ↗](https://github.com/YoussefNoaman96/react-ecommerce-store)**
 
-    "Tools" : { 
-      "Git", "GitHub", "VS Code", "Postman", "Figma" 
-    }
-  };
-}
-```
+A team project with a storefront and admin dashboard. My work includes product management, filtering, and editing.
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning **Full-Stack Web Development**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **modern and responsive web applications**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **React, JavaScript, Node.js, or Web Development**. <br>
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on [**LinkedIn**](https://www.linkedin.com/in/youssef-noaman-b21a4729b) or [**Facebook**](https://www.facebook.com/share/1LnMVsXYTV/).<br>
-*   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I enjoy turning ideas into **real-world web applications**. ⚡<br>
+`React` · `Tailwind CSS` · `i18next` · `Axios`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Wasal ↗](https://github.com/YoussefNoaman96/wasal-ecommerce)**
+
+An e-commerce frontend for browsing products, managing a cart and wishlist, and signing in.
+
+`React` · `Vite` · `React Router` · `Axios`
+
+</td>
+<td width="50%" valign="top">
+
+**[Weather App ↗](https://github.com/YoussefNoaman96/weather-app)**
+
+A Node.js and Express application for looking up weather information.
+
+`Node.js` · `Express` · `Handlebars` · `CSS`
+
+</td>
+</tr>
+</table>
+
+### My toolkit
+
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=639)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=flat-square&logo=bootstrap&logoColor=7952B3)
+
+**Backend & data**  
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=BD34FE)
+
+---
 
 <div align="center">
 
-<a href="https://github.com/YoussefNoaman96">
+**Learn. Build. Improve. Repeat.**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefNoaman96&theme=nord_dark" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefNoaman96&theme=nord_dark" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefNoaman96&theme=nord_dark" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefNoaman96&theme=nord_dark">
-
-</details>
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+Thanks for stopping by — feel free to explore my work and connect!
 
 </div>
